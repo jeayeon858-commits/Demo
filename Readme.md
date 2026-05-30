@@ -6,3 +6,4 @@ I am new at this :D \
 * bullet 
 This readme and procedures is useful for describing the code as well as overall essay chunk \
 I made a new branch that can have changes without changing the origianl demo
+hey Jane!
